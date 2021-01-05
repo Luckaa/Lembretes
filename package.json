@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@sinonjs/formatio": "^2.0.0",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "cordova-plugin-device": "^2.0.2",
     "cors": "^2.8.5",
     "uuid": "^3.2.1",
